@@ -12,4 +12,3 @@ ITEM.functions.Apply = {
 		client:SetHealth(math.min(client:Health() + 15, client:GetMaxHealth()))
 	end
 }
-q
