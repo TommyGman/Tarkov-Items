@@ -2,7 +2,7 @@
 Hey, thanks for installing my plugin <3
 
 All of the scripts use models taken from Illusion's Escape from Tarkov megapack addon on the Steam workshop below, so be sure to add that to your content:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1999644123
+https://steamcommunity.com/sharedfiles/filedetails/?id=2796286925
 
 Otherwise, feel free to use this plugin as you wish, examples being filler for a script spawner, resources and ingredients in a crafting system, or to add more food and drink to the pool. It will hopefully save you a lot of time spent tediously creating each individual item x
 
